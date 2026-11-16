@@ -1,15 +1,15 @@
-# Greetings! I'm Karan Malhotra 🛡️
+# Greetings! I'm Charlie 🛡️
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&pause=1000&color=A855F7&width=550&lines=Web3+%26+Smart+Contract+Auditor;EVM+Internals+%26+Gas+Optimization;ZK+Cryptography+Researcher)](https://git.io/typing-svg)
 
 ---
 
-### 🔐 Research & Specialization
+### 🔐 About Charlie Node
 Dedicated to building tamper-proof smart contract systems, protocol level security analysis, and decentralized finance infrastructure.
 
 - 🔍 Special focus on **EVM Bytecode Optimization, Reentrancy Guards, and Formal Invariants**.
-- 🧪 Auditing & verifying open-source decentralized protocols and algorithmic automated market makers.
-- ⚡ Practicing property-based testing and fuzzing with Foundry, Echidna, and Certora.
+- 🧪 Auditing & verifying open-source decentralized protocols and automated market makers.
+- ⚡ Property-based testing and fuzzing with Foundry, Echidna, and Certora.
 - 🌐 Exploring zero-knowledge circuits (Circom / Halo2) and state transition validity.
 
 ---
